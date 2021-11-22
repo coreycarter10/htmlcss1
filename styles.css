@@ -1,0 +1,25 @@
+body {
+    background-color: #0f3d0f;
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+#game-modes {
+    border: 5px solid black;
+    width: 40vw;
+}
+
+button {
+    background-color: cyan;
+    margin-left: 50vw;
+    /* box-shadow: 30px, 30px, black; */
+}
+
+button:hover {
+    background-color: red;
+    transform:scale(1.2);
+}
